@@ -4,4 +4,5 @@ draft = true
 title = 'Keyboard'
 summary = "Progress so far on designing a custom split keyboard"
 previewImage = "/img/KeyboardPrototypePhysicalLayout.jpg"
+frontpage = true
 +++

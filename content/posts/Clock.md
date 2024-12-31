@@ -7,6 +7,7 @@ categories = ["Electronics", "PCB"]
 tags = ["kicad", "ben-eater-cpu", "pcb-design"]
 previewImage = "/img/Clock.jpg"
 weight=1
+frontpage = false
 +++
 
 ![Clock GIF](/clock.gif)

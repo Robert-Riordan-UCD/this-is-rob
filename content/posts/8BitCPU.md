@@ -7,6 +7,7 @@ categories = ["Electronics", "PCB"]
 tags = ["kicad", "ben-eater-cpu", "pcb-design"]
 previewImage = "/img/8BitComputer.jpg"
 subposts = ["Clock", "Program-Counter"]
+frontpage = true
 +++
 
 This is a PCB version of [Ben Eater's 8-bit breaboard computer](https://eater.net/8bit). It's based on the 'Simple As Possible' architecture, with modifications made to make the computer turing complete. My main goal building this was to learn the in's and out's of PCB design, but I also learned a whole lot about computer architecture in the process.

@@ -5,6 +5,7 @@ title = 'Program Counter'
 summary = "4-bit program counter with set, reset, output, and count control signals."
 previewImage = "/img/ProgramCounter.jpg"
 weight=2
+frontpage = false
 +++
 
 TODO: Add GIF <!--- ![Clock GIF](/clock.gif) --->
