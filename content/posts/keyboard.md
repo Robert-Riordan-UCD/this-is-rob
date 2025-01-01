@@ -4,6 +4,7 @@ draft = true
 title = 'Keyboard'
 summary = "Progress so far on designing a custom split keyboard"
 previewImage = "/img/Keyboard/KeyboardPrototypeV1.jpg"
+tags = ["laser-cut"]
 frontpage = true
 subposts = ["layout-prototypes"]
 weight = 2

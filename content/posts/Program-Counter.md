@@ -4,6 +4,7 @@ draft = true
 title = 'Program Counter'
 summary = "4-bit program counter with set, reset, output, and count control signals."
 previewImage = "/img/ProgramCounter.jpg"
+tags = ["kicad", "ben-eater-cpu", "pcb-design"]
 weight=2
 frontpage = false
 +++

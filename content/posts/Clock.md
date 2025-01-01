@@ -3,7 +3,6 @@ date = '2024-11-08T17:06:00+11:00'
 draft = true
 title = 'Clock'
 summary = "Clock module with variable frequency and manual mode."
-categories = ["Electronics", "PCB"]
 tags = ["kicad", "ben-eater-cpu", "pcb-design"]
 previewImage = "/img/Clock.jpg"
 weight=1
