@@ -1,0 +1,15 @@
+#!/bin/sh
+
+files_added=$(git diff --name-only --cached)
+
+for file in $files_added
+do
+    # FIXME: This checks the size of the file as it is right now, not the size of the file as it was added
+    file_size=$(stat --printf="%s" $file)
+    if test $file_size -ge 100000000
+    then
+        echo "File to large to commit"
+        echo $file
+        exit 1
+    fi
+done
