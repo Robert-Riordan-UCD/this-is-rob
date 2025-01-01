@@ -6,4 +6,5 @@ summary = "Progress so far on designing a custom split keyboard"
 previewImage = "/img/Keyboard/KeyboardPrototypeV1.jpg"
 frontpage = true
 subposts = ["layout-prototypes"]
+weight = 2
 +++
