@@ -9,7 +9,7 @@ weight=2
 frontpage = false
 +++
 
-TODO: Add GIF <!--- ![Clock GIF](/clock.gif) --->
+TODO: Add GIF
 
 The program counter is a 4-bit register used to save to position of the current instruction in RAM while the CPU is performing it. Using the count enable signal increments the position by one, so the next instruction can be preformed. The jump signal can be used to load a value from the bus into the program counter, allowing the CPU to move to a different position in RAM.
 
