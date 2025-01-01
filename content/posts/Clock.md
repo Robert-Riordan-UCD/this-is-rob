@@ -1,6 +1,5 @@
 +++
 date = '2024-11-08T17:06:00+11:00'
-draft = true
 title = 'Clock'
 summary = "Clock module with variable frequency and manual mode."
 tags = ["kicad", "ben-eater-cpu", "pcb-design"]
@@ -9,7 +8,7 @@ weight=1
 frontpage = false
 +++
 
-![Clock GIF](/clock.gif)
+![Clock GIF](/gif/clock.gif)
 
 The clock can run in continuous mode or manual mode. In continuous mode the clock frequency can be varied using the potentiometer. It can also be halted using an external halt signal.
 
