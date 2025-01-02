@@ -6,7 +6,6 @@ summary = "An 8-bit CPU based on the SAP-1 architecture and Ben Eater's breadboa
 categories = ["Electronics", "PCB"]
 tags = ["kicad", "ben-eater-cpu", "pcb-design"]
 previewImage = "/img/8BitComputer.jpg"
-subposts = ["Clock", "Program-Counter"]
 frontpage = true
 weight = 1
 +++
