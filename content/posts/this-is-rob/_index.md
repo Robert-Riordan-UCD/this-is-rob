@@ -4,6 +4,6 @@ draft = true
 title = 'This Is Rob'
 frontpage = true
 summary = "This website"
-weight = 0
+weight = 4
 tag = ["web-dev"]
 +++
