@@ -16,9 +16,7 @@ The output is an 8-bit register, linked to a 7-segment display. An EEPROM conver
 
 1. I tied the one-hot counter enable high instead of low, leaving it always disabled and no output displayed. The pin was connected to a copper pour so I had to break the pin off the IC and solder and new wire in place to connect it to ground.
 
-2. I labeled the bus backwards, so the jumper cable has to rotate when connecting to the bus.
-
-3. The 2's complement signal is unused and floating so the output was flickering. I added a pulling reistor to keep it in the unsigned state.
+2. The 2's complement signal is unused and floating so the output was flickering. I added a pulling reistor to keep it in the unsigned state.
 
 The source (with fixes to these issues) is on [Github](https://github.com/Robert-Riordan-UCD/8_Bit_CPU_PCB/tree/main/Output).
 
