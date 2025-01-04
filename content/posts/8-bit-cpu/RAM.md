@@ -5,7 +5,7 @@ title = 'Random Access Memory'
 summary = "16 8-bit memory loctions to read and write data to."
 tags = ["kicad", "ben-eater-cpu", "pcb-design", "atmega-328"]
 previewImage = "/img/Clock.jpg"
-weight=4
+weight=5
 +++
 
 TODO: Add GIF
