@@ -4,7 +4,7 @@ draft = true
 title = 'Output'
 summary = "A 7-segment display."
 tags = ["kicad", "ben-eater-cpu", "pcb-design"]
-previewImage = "/img/Clock.jpg"
+previewImage = "/img/8-bit-cpu/output.jpg"
 weight=8
 +++
 

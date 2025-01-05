@@ -4,7 +4,7 @@ draft = true
 title = 'Control'
 summary = "The decision center of the CPU."
 tags = ["kicad", "ben-eater-cpu", "pcb-design"]
-previewImage = "/img/Clock.jpg"
+previewImage = "/img/8-bit-cpu/control.jpg"
 weight=7
 +++
 

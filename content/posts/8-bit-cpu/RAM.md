@@ -4,7 +4,7 @@ draft = true
 title = 'Random Access Memory'
 summary = "16 8-bit memory loctions to read and write data to."
 tags = ["kicad", "ben-eater-cpu", "pcb-design", "atmega-328"]
-previewImage = "/img/Clock.jpg"
+previewImage = "/img/8-bit-cpu/RAM.jpg"
 weight=5
 +++
 

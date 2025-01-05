@@ -4,7 +4,7 @@ draft = true
 title = 'Registers'
 summary = "3 8-bit registers, for storing, moving, and operating on data."
 tags = ["kicad", "ben-eater-cpu", "pcb-design"]
-previewImage = "/img/Clock.jpg"
+previewImage = "/img/8-bit-cpu/registers.jpg"
 weight=4
 +++
 

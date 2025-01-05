@@ -4,7 +4,7 @@ draft = true
 title = 'Bus'
 summary = "8-bit bus and control signals connecting all the modules."
 tags = ["kicad", "ben-eater-cpu", "pcb-design"]
-previewImage = "/img/Clock.jpg"
+# previewImage = "/img/8-bit-cpu/bus.jpg"
 weight=9
 +++
 

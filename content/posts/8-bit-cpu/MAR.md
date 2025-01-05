@@ -4,7 +4,7 @@ draft = true
 title = 'Memory Address Register'
 summary = "4-bit register, controlling access to RAM."
 tags = ["kicad", "ben-eater-cpu", "pcb-design"]
-previewImage = "/img/Clock.jpg"
+previewImage = "/img/8-bit-cpu/MAR.jpg"
 weight=3
 +++
 

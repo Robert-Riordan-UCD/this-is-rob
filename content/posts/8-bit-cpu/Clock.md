@@ -3,7 +3,7 @@ date = '2024-11-08T17:06:00+11:00'
 title = 'Clock'
 summary = "Clock module with variable frequency and manual mode."
 tags = ["kicad", "ben-eater-cpu", "pcb-design"]
-previewImage = "/img/Clock.jpg"
+previewImage = "/img/8-bit-cpu/clock.jpg"
 weight=1
 frontpage = false
 +++

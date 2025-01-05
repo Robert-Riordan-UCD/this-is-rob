@@ -4,7 +4,7 @@ draft = true
 title = 'Arithmetic Logic Unit'
 summary = "Add or subtract 2 8-bit numbers."
 tags = ["kicad", "ben-eater-cpu", "pcb-design"]
-previewImage = "/img/Clock.jpg"
+previewImage = "/img/8-bit-cpu/ALU.jpg"
 weight=6
 +++
 
