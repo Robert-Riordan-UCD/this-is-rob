@@ -1,6 +1,5 @@
 +++
 date = '2025-01-01T21:59:15+11:00'
-draft = true
 title = 'Notepad Ace'
 frontpage = true
 summary = "Speedrunning game made for GitHub Game Off 2024"

@@ -1,6 +1,5 @@
 +++
 date = '2025-01-04T21:24:01+11:00'
-draft = true
 title = 'Memory Address Register'
 summary = "4-bit register, controlling access to RAM."
 tags = ["kicad", "ben-eater-cpu", "pcb-design"]

@@ -1,6 +1,5 @@
 +++
 date = '2025-01-04T21:24:01+11:00'
-draft = true
 title = 'Arithmetic Logic Unit'
 summary = "Add or subtract 2 8-bit numbers."
 tags = ["kicad", "ben-eater-cpu", "pcb-design"]

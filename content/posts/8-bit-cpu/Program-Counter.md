@@ -1,6 +1,5 @@
 +++
 date = '2024-12-17T11:24:17+11:00'
-draft = true
 title = 'Program Counter'
 summary = "4-bit program counter with set, reset, output, and count control signals."
 previewImage = "/img/8-bit-cpu/PC.jpg"

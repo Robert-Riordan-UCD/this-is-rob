@@ -1,6 +1,5 @@
 +++
 date = '2025-01-04T20:05:30+11:00'
-draft = true
 title = 'Numpad'
 summary = "A quick build to experiment before designing the split keyboard"
 tags = ["3d-print", "prototype", "pi-pico"]

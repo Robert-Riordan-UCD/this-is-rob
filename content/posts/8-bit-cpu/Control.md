@@ -1,6 +1,5 @@
 +++
 date = '2025-01-04T21:24:01+11:00'
-draft = true
 title = 'Control'
 summary = "The decision center of the CPU."
 tags = ["kicad", "ben-eater-cpu", "pcb-design"]

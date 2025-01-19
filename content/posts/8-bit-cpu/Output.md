@@ -1,6 +1,5 @@
 +++
 date = '2025-01-04T21:24:01+11:00'
-draft = true
 title = 'Output'
 summary = "A 7-segment display."
 tags = ["kicad", "ben-eater-cpu", "pcb-design"]

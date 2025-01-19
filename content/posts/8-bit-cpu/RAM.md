@@ -1,6 +1,5 @@
 +++
 date = '2025-01-04T21:24:01+11:00'
-draft = true
 title = 'Random Access Memory'
 summary = "16 8-bit memory loctions to read and write data to."
 tags = ["kicad", "ben-eater-cpu", "pcb-design", "atmega-328"]

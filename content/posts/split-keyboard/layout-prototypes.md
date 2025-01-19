@@ -1,6 +1,5 @@
 +++
 date = '2025-01-01T15:22:54+11:00'
-draft = true
 title = 'Layout Prototypes'
 tags = ["Keyboard-Layout-Editor", "prototype", "laser-cut"]
 summary = "Laser cut prototypes of the physical layout to test the ergonomics."

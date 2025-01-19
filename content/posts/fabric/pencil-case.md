@@ -1,6 +1,5 @@
 +++
 date = '2025-01-09T11:36:10+11:00'
-draft = true
 title = 'Pencil Case'
 tags = ["sewing"]
 summary = "My first project on a sewing machine"

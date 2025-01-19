@@ -1,6 +1,5 @@
 +++
 date = '2025-01-04T21:24:01+11:00'
-draft = true
 title = 'Registers'
 summary = "3 8-bit registers, for storing, moving, and operating on data."
 tags = ["kicad", "ben-eater-cpu", "pcb-design"]
