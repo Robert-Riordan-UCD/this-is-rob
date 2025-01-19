@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://robs-stuff.gitlab.io/this-is-rob'
 languageCode = 'en-us'
 title = 'This Is Rob'
 theme = "lightbi-hugo"
