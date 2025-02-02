@@ -6,6 +6,7 @@ summary = "This website"
 weight = 4
 tag = ["web-dev", "hugo"]
 previewImage = "/img/this-is-rob/this-is-rob.png"
+status = "Work in progress"
 +++
 
 I made this site to keep track of all my projects that I have finished.

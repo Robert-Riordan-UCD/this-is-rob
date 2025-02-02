@@ -6,4 +6,5 @@ previewImage = "/img/Keyboard/KeyboardPrototypeV1.jpg"
 tags = ["laser-cut"]
 frontpage = true
 weight = 2
+status = "Work in progress"
 +++

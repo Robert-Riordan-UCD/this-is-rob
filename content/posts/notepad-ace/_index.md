@@ -6,6 +6,7 @@ summary = "Speedrunning game made for GitHub Game Off 2024"
 tags = ["game-dev", "godot", "game-jam"]
 previewImage = "/img/notepad-ace/notepad-ace.png"
 weight = 3
+status = "Done"
 +++
 
 ![Notepad Ace GIF](/gif/notepad-ace.gif)

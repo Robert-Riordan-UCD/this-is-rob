@@ -7,6 +7,7 @@ tags = ["kicad", "ben-eater-cpu", "pcb-design"]
 previewImage = "/img/8-bit-cpu/8-bit-cpu.jpg"
 frontpage = true
 weight = 1
+status = "Work in progress"
 +++
 
 ![8-Bit CPU running](/gif/8-bit-cpu/add-3.gif)
