@@ -1,6 +1,6 @@
 baseURL = 'https://robert-riordan-ucd.github.io/this-is-rob/'
 languageCode = 'en-us'
 title = 'This Is Rob'
-theme = "lightbi-hugo"
+theme = ["hugo-video", "lightbi-hugo"]
 enableRobotsTXT = true
 canonifyURLs = true

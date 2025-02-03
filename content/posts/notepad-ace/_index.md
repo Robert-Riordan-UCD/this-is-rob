@@ -29,6 +29,8 @@ The game can be beaten without using any of the secret mechanics. However, there
 2. Inverting requires double tapping the **I** key.
 3. Dashing requires pressing both **J** and **K** simultaneously.
 
+{{<video src="secrets" loop="true" autoplay="true" muted="true">}}
+
 To make sure that players didn't discover the secrets by randomly hitting buttons, I had to make them unintuative while still remaining reasonably ergonomic.
 
 The controls for each mechanic are hidden in the background art around the stage. I tried to make them obvious given that this was a game jam and I can only expect a player to spend 2 or 3 minutes with my game before moving on.
