@@ -4,7 +4,7 @@ title = 'This Is Rob'
 frontpage = true
 summary = "This website"
 weight = 4
-tag = ["web-dev", "hugo"]
+tags = ["web-dev", "hugo"]
 previewImage = "/img/this-is-rob/this-is-rob.png"
 status = "Work in progress"
 +++
