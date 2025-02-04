@@ -5,4 +5,5 @@ theme = ["hugo-video", "lightbi-hugo"]
 enableRobotsTXT = true
 canonifyURLs = true
 [params]
-    accentColor = "rgb(11, 126, 11)"
+    accentColor = "rgb(5, 109, 5)"
+    secondaryAccentColor = "rgb(0, 172, 0)"
