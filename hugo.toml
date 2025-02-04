@@ -4,3 +4,5 @@ title = 'This Is Rob'
 theme = ["hugo-video", "lightbi-hugo"]
 enableRobotsTXT = true
 canonifyURLs = true
+[params]
+    accentColor = "rgb(11, 126, 11)"
