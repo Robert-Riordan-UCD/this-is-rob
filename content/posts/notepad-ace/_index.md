@@ -19,7 +19,7 @@ My goal with this project was to go through the complete game development cycle 
 
 ## The Idea
 
-The theme of the game jam was *secrets*, so I based my game around hidden mechanics which could be used to access short cuts to get faster times. This was mostly inspired by *Tunic*; a game where you discover how to use ablities that you have always had through various clues in the game.  
+The theme of the game jam was *secrets*, so I based my game around hidden mechanics which could be used to access short cuts to get faster times. This was mostly inspired by *Tunic*; a game where you discover how to use abilities that you have always had through various clues in the game.  
 
 #### The Secrets
 
@@ -31,7 +31,7 @@ The game can be beaten without using any of the secret mechanics. However, there
 
 {{<video src="secrets" loop="true" autoplay="true" muted="true">}}
 
-To make sure that players didn't discover the secrets by randomly hitting buttons, I had to make them unintuative while still remaining reasonably ergonomic.
+To make sure that players didn't discover the secrets by randomly hitting buttons, I had to make them unintuitive while still remaining reasonably ergonomic.
 
 The controls for each mechanic are hidden in the background art around the stage. I tried to make them obvious given that this was a game jam and I can only expect a player to spend 2 or 3 minutes with my game before moving on.
 
@@ -45,4 +45,4 @@ Most of my time throughout the game jam was spend trying to get the player movem
 
 ## Publishing
 
-The game had to be published on [Itch](itch.io) for the jam. I set up a page early in the month to run though Godots export process. During the process of prototyping the leaderboard, I tried to integrate the player's Itch usernames into the leaderboard. While this wasn't successful, I had to play with Itch's API's and realised that it was possible to upload games through it. So I wrote a simple script to export a build of the game and upload it to Itch. This allowed be to regularly test the web build and easilt get friends to play test the game.
+The game had to be published on [Itch](itch.io) for the jam. I set up a page early in the month to run though Godots export process. During the process of prototyping the leaderboard, I tried to integrate the player's Itch usernames into the leaderboard. While this wasn't successful, I had to play with Itch's API's and realised that it was possible to upload games through it. So I wrote a simple script to export a build of the game and upload it to Itch. This allowed be to regularly test the web build and easily get friends to play test the game.

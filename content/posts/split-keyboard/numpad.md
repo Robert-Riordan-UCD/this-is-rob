@@ -17,13 +17,13 @@ TODO: Print keycaps
 
 ## Electronic design
 
-The keys are arranged in a 4x5 matrix, such that each key can be identifided by raising the voltage on one column and checking to see if any rows match the raised voltage. A diode it added to each key to prevent current flowing from one row to the next if multiple keys are pressed, causing keys to registered incorrectly.
+The keys are arranged in a 4x5 matrix, such that each key can be identified by raising the voltage on one column and checking to see if any rows match the raised voltage. A diode it added to each key to prevent current flowing from one row to the next if multiple keys are pressed, causing keys to registered incorrectly.
 
 ![Electrical hook up of the back of the keys](/img/Keyboard/numpad/matrix-design.jpg)
 
 ## Firmware
 
-I'm using [KMK](https://github.com/KMKfw/kmk_firmware) firmware on a Pico 2 W. It's a CircuitPython based keyboard firnware. Unfortunately, circuit python does not support bluetooth, as I'm writing this, and is not on Adafruits road map of feature they plan on adding. KMK is quite easy to get started with, by just defining the rows, columns, and function of each key.
+I'm using [KMK](https://github.com/KMKfw/kmk_firmware) firmware on a Pico 2 W. It's a CircuitPython based keyboard firmware. Unfortunately, circuit python does not support bluetooth, as I'm writing this, and is not on Adafruits road map of feature they plan on adding. KMK is quite easy to get started with, by just defining the rows, columns, and function of each key.
 
 I made a quick attempt at using [QMK](https://docs.qmk.fm/), but it doesn't support the RP2350 so I stuck with KMK.
 

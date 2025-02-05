@@ -9,7 +9,7 @@ previewImage = "/img/Keyboard/KeyboardPrototypeV2.jpg"
 I designed the layout using keyboard-layout-editor.com and lasercut each of them to get a feel for the ergonomics of the keyboard before committing to the PCB design.
 
 # Version 1
-I felt there wasn't enough stagger on the pinky column and the thumb cluster felt toox far away from the rest of the keyboard.
+I felt there wasn't enough stagger on the pinky column and the thumb cluster felt too far away from the rest of the keyboard.
 
 ![Keyboard prototype version 1](/img/Keyboard/KeyboardPrototypeV1.jpg)
 

@@ -16,4 +16,4 @@ This is a PCB version of [Ben Eater's 8-bit breaboard computer](https://eater.ne
 
 The computer is made up of 10 modules and an 8-bit bus.
 
-I sourced all of the components using Ben Eaters BOM. Not all components were still in stock or even in production anymore, but I match each component as closely as possible. In some cases, I modified the design silightly to accommodate a different component, but each module functions in the same way as Ben Eater computer.
+I sourced all of the components using Ben Eaters BOM. Not all components were still in stock or even in production anymore, but I match each component as closely as possible. In some cases, I modified the design slightly to accommodate a different component, but each module functions in the same way as Ben Eater computer.

@@ -9,7 +9,7 @@ weight=3
 
 TODO: Add GIF
 
-The Memory Address Register (MAR) is a 4-bit register, which is used to select a loction in RAM when accessing data or storing. The MAR can run in regular or programming mode. In regular mode, the register is updated from the bus if an enable signal is asserted when the clock signal goes high. Switching to programming mode allows the user to manually set the address so RAM can be programmed by hand.
+The Memory Address Register (MAR) is a 4-bit register, which is used to select a location in RAM when accessing data or storing. The MAR can run in regular or programming mode. In regular mode, the register is updated from the bus if an enable signal is asserted when the clock signal goes high. Switching to programming mode allows the user to manually set the address so RAM can be programmed by hand.
 
 ### The errors I made and how I fixed them
 
