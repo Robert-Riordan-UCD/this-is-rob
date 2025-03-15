@@ -21,25 +21,25 @@ Here's the pattern for the outside
 
 I didn't take a photo of the inside pattern.
 
-![alt text](/img/fabric/chalk-bucket/pattern.jpg)
+![Outside panesl cut out from fabric](/img/fabric/chalk-bucket/pattern.jpg)
 
 ## Front and back panel assembly
 
 There's a pocket on the front to hold things like tape and a phone, and a bruch holder on the back.
 
-![alt text](/img/fabric/chalk-bucket/front-panel.jpg) 
-![alt text](/img/fabric/chalk-bucket/back-panel.jpg) 
+![Assembled front panel with pocket](/img/fabric/chalk-bucket/front-panel.jpg) 
+![Partially assembled back panel with bruch holder](/img/fabric/chalk-bucket/back-panel.jpg) 
 
 ## Inside and outside assembled
 
 I decided to add the padding to add structure at this point because the bucket felt very floppy and would probably have toppled over constantly once I added the magnetic strips.
 
-![alt text](/img/fabric/chalk-bucket/inside-and-outside.jpg) 
+![Inside and outside assembled](/img/fabric/chalk-bucket/inside-and-outside.jpg) 
 
 ## Completed bucket
 
 I've been using the chalk bucket for a few weeks now and it's working perfectly. The magnetic strip is brilliant, because it is easy to open, keeps it frimly closed so there's no risk of spilling, and I don't have to brush past velcro every time I chalk up. The only minor issue is that the top is still floppy, so I probably should have added padding there.
 
-![alt text](/img/fabric/chalk-bucket/finished.jpg) 
-![alt text](/img/fabric/chalk-bucket/finished-back.jpg) 
-![alt text](/img/fabric/chalk-bucket/finished-with-chalk.jpg) 
+![Finished chalk bucket](/img/fabric/chalk-bucket/finished.jpg) 
+![Finished chalk bucket from the back](/img/fabric/chalk-bucket/finished-back.jpg) 
+![Finished chalk bucket open with chalk](/img/fabric/chalk-bucket/finished-with-chalk.jpg)
