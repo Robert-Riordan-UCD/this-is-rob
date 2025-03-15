@@ -4,6 +4,7 @@ title = 'Pencil Case'
 tags = ["sewing"]
 summary = "My first project on a sewing machine"
 previewImage = "/img/fabric/pencil-case/pencil-case-open.jpg"
+status = "Done"
 +++
 
 This was a quick project to learn all about how to sew on a sewing machine. I definitely made some mistakes and I'm probably not aware of many more that I made.
