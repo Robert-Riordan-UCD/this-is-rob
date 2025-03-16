@@ -1,6 +1,6 @@
 +++
 date = '2025-03-16T17:31:52+11:00'
-draft = true
+draft = false
 title = 'Side Quests'
 
 summary = "Quick projects that I will forget about if I don't write them down"
