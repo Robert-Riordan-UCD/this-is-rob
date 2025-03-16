@@ -7,6 +7,7 @@ tags = ["game-dev", "godot", "game-jam"]
 previewImage = "/img/salt-of-epsom/salt_of_epsom_Logo.png"
 frontpage = true
 status = "Work in progress"
+weight = 10
 +++
 
 ![Salt of Epsom Logo](/img/salt-of-epsom/salt_of_epsom_Logo.png)

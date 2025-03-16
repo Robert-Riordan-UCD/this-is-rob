@@ -5,4 +5,5 @@ tags = ["sewing"]
 summary = "All my fabric projects"
 frontpage = true
 previewImage = "/img/fabric/pencil-case/pencil-case-open.jpg"
+weight = 10
 +++
