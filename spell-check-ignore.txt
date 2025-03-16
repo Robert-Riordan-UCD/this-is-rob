@@ -13,6 +13,7 @@ bouldering
 breadboard
 datasheet
 dev
+dict
 eeprom
 eeproms
 en
@@ -58,7 +59,9 @@ ui
 unicycling
 unicyle
 unintuitive
+usr
 velco
+vscodium
 woops
 wxcd
 wxyz
