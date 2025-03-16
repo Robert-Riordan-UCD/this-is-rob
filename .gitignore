@@ -8,3 +8,7 @@
 
 ## Asset files
 *.mlt
+
+## Logs
+*.log
+*.errors

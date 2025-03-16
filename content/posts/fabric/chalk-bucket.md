@@ -7,7 +7,7 @@ previewImage = "/img/fabric/chalk-bucket/finished.jpg"
 status = "Done"
 +++
 
-I made this based on the [this video](https://www.youtube.com/watch?v=k9VXcxhBZAg), with some modifications. I used a thin foam sitched into each of the side to give the bucket more structure so it could hold it's shape and I used magnetic strips to seal the bucket instead of velco.
+I made this based on the [this video](https://www.youtube.com/watch?v=k9VXcxhBZAg), with some modifications. I used a thin foam stitched into each of the side to give the bucket more structure so it could hold it's shape and I used magnetic strips to seal the bucket instead of velco.
 
 I used a cool fabric I found at an op-shop for the outside and a soft dish drying mat for the inside. The dish mat had padding inside that I used to add structure to the outside of the bucket.
 
@@ -21,14 +21,14 @@ Here's the pattern for the outside
 
 I didn't take a photo of the inside pattern.
 
-![Outside panesl cut out from fabric](/img/fabric/chalk-bucket/pattern.jpg)
+![Outside panel cut out from fabric](/img/fabric/chalk-bucket/pattern.jpg)
 
 ## Front and back panel assembly
 
-There's a pocket on the front to hold things like tape and a phone, and a bruch holder on the back.
+There's a pocket on the front to hold things like tape and a phone, and a brush holder on the back.
 
 ![Assembled front panel with pocket](/img/fabric/chalk-bucket/front-panel.jpg) 
-![Partially assembled back panel with bruch holder](/img/fabric/chalk-bucket/back-panel.jpg) 
+![Partially assembled back panel with brush holder](/img/fabric/chalk-bucket/back-panel.jpg) 
 
 ## Inside and outside assembled
 
@@ -38,7 +38,7 @@ I decided to add the padding to add structure at this point because the bucket f
 
 ## Completed bucket
 
-I've been using the chalk bucket for a few weeks now and it's working perfectly. The magnetic strip is brilliant, because it is easy to open, keeps it frimly closed so there's no risk of spilling, and I don't have to brush past velcro every time I chalk up. The only minor issue is that the top is still floppy, so I probably should have added padding there.
+I've been using the chalk bucket for a few weeks now and it's working perfectly. The magnetic strip is brilliant, because it is easy to open, keeps it firmly closed so there's no risk of spilling, and I don't have to brush past velcro every time I chalk up. The only minor issue is that the top is still floppy, so I probably should have added padding there.
 
 ![Finished chalk bucket](/img/fabric/chalk-bucket/finished.jpg) 
 ![Finished chalk bucket from the back](/img/fabric/chalk-bucket/finished-back.jpg) 

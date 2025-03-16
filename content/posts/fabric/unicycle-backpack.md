@@ -11,15 +11,15 @@ Trying to get from A to B with a unicycle has been a constant struggle since I s
 
 ## The original backpack
 
-I asked for ideas on how to make the backpad at my local makerspace and someone suggested that I find a cheap hiking backpack and use it as a starting point, instead of building it from scratch. I'm very glad they did because I might never have thought of it and gone on to reinvent the wheel.
+I asked for ideas on how to make the backpack at my local makerspace and someone suggested that I find a cheap hiking backpack and use it as a starting point, instead of building it from scratch. I'm very glad they did because I might never have thought of it and gone on to reinvent the wheel.
 
-This is the original backpack. I bought it seecondhand because I figured a broken one could go to better use as a unicyle backpack that buying an new one and tearing it apart. I wanted a bag that clipped at the waist to take most of the weight and also the chest to keep the unicycle close to my body. It also needed thick padding where the the crank would meet my back.
+This is the original backpack. I bought it secondhand because I figured a broken one could go to better use as a unicyle backpack that buying an new one and tearing it apart. I wanted a bag that clipped at the waist to take most of the weight and also the chest to keep the unicycle close to my body. It also needed thick padding where the the crank would meet my back.
 
 ![Original backpack](/img/fabric/unicycle-backpack/original-backpack.jpg)
 
 ## Quick prototype
 
-I took off the the bag portion of the backback and conveniently all the parts I wanted to keep seemed to be assembled into one unit before adding the bag, so I was left with a fully function bagless backpack. To test the idea, I used a bum bag to secure the wheel and I used a loop of velco on the panel to keep the neck of the unicycle in place.
+I took off the the bag portion of the backpack and conveniently all the parts I wanted to keep seemed to be assembled into one unit before adding the bag, so I was left with a fully function bag-less backpack. To test the idea, I used a bum bag to secure the wheel and I used a loop of velco on the panel to keep the neck of the unicycle in place.
 
 ![Prototype](/img/fabric/unicycle-backpack/prototype.jpg)
 
