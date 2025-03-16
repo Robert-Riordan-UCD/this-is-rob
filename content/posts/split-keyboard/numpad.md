@@ -13,17 +13,17 @@ I made a numpad to experiment with the firmware and check I understand the full 
 
 I 3D printed the case. The spacing between keys on the initial print was slightly to tight, but it worked the second time.
 
-![Side profile with keys not fitting well next to each other](/img/Keyboard/numpad/first_print_fit.jpg)
+![Image of side profile with keys not fitting well next to each other](/img/Keyboard/numpad/first_print_fit.jpg)
 
 For now the case is just held together by an elastic band because I want to move on the keyboard design.
 
-![Completed build](/img/Keyboard/numpad/full-build.jpg)
+![Image of completed build](/img/Keyboard/numpad/full-build.jpg)
 
 ## Electronic design
 
 The keys are arranged in a 4x5 matrix, such that each key can be identified by raising the voltage on one column and checking to see if any rows match the raised voltage. A diode it added to each key to prevent current flowing from one row to the next if multiple keys are pressed, causing keys to registered incorrectly.
 
-![Electrical hook up of the back of the keys](/img/Keyboard/numpad/matrix-design.jpg)
+![Image of electrical hook up](/img/Keyboard/numpad/matrix-design.jpg)
 
 ## Firmware
 

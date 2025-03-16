@@ -21,25 +21,25 @@ Here's the pattern for the outside
 
 I didn't take a photo of the inside pattern.
 
-![Outside panel cut out from fabric](/img/fabric/chalk-bucket/pattern.jpg)
+![Image of outside panel cut out from fabric](/img/fabric/chalk-bucket/pattern.jpg)
 
 ## Front and back panel assembly
 
 There's a pocket on the front to hold things like tape and a phone, and a brush holder on the back.
 
-![Assembled front panel with pocket](/img/fabric/chalk-bucket/front-panel.jpg) 
-![Partially assembled back panel with brush holder](/img/fabric/chalk-bucket/back-panel.jpg) 
+![Image of assembled front panel with pocket](/img/fabric/chalk-bucket/front-panel.jpg) 
+![Image of partially assembled back panel with brush holder](/img/fabric/chalk-bucket/back-panel.jpg) 
 
 ## Inside and outside assembled
 
 I decided to add the padding to add structure at this point because the bucket felt very floppy and would probably have toppled over constantly once I added the magnetic strips.
 
-![Inside and outside assembled](/img/fabric/chalk-bucket/inside-and-outside.jpg) 
+![Image of inside and outside assembled](/img/fabric/chalk-bucket/inside-and-outside.jpg) 
 
 ## Completed bucket
 
 I've been using the chalk bucket for a few weeks now and it's working perfectly. The magnetic strip is brilliant, because it is easy to open, keeps it firmly closed so there's no risk of spilling, and I don't have to brush past velcro every time I chalk up. The only minor issue is that the top is still floppy, so I probably should have added padding there.
 
-![Finished chalk bucket](/img/fabric/chalk-bucket/finished.jpg) 
-![Finished chalk bucket from the back](/img/fabric/chalk-bucket/finished-back.jpg) 
-![Finished chalk bucket open with chalk](/img/fabric/chalk-bucket/finished-with-chalk.jpg)
+![Image of finished chalk bucket](/img/fabric/chalk-bucket/finished.jpg) 
+![Image of finished chalk bucket from the back](/img/fabric/chalk-bucket/finished-back.jpg) 
+![Image of finished chalk bucket open with chalk](/img/fabric/chalk-bucket/finished-with-chalk.jpg)

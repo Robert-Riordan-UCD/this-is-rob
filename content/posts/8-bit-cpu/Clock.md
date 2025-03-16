@@ -8,7 +8,7 @@ weight=1
 frontpage = false
 +++
 
-![Clock GIF](/gif/clock.gif)
+![GIF of clock running](/gif/clock.gif)
 
 The clock can run in continuous mode or manual mode. In continuous mode the clock frequency can be varied using the potentiometer. It can also be halted using an external halt signal.
 

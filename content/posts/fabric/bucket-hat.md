@@ -7,6 +7,6 @@ previewImage = "/img/fabric/bucket-hat/bucket-hat.jpg"
 status = "Done"
 +++
 
-![Bucket hat](/img/fabric/bucket-hat/bucket-hat.jpg)
+![Image of bucket hat](/img/fabric/bucket-hat/bucket-hat.jpg)
 
-![Bucket hat reversed](/img/fabric/bucket-hat/bucket-hat-reverse.jpg)
+![Image of bucket hat reversed](/img/fabric/bucket-hat/bucket-hat-reverse.jpg)
