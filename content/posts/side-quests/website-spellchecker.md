@@ -4,7 +4,7 @@ draft = false
 title = 'Website Spell Checker'
 
 summary = "A shell script to spell check my website"
-tags = ["game-dev", "godot", "addons"]
+tags = ["web-dev", "unix"]
 frontpage = false
 status = "Done"
 +++
