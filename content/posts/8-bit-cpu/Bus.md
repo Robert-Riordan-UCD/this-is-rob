@@ -1,7 +1,7 @@
 +++
 date = '2025-01-04T21:24:01+11:00'
 title = 'Bus'
-summary = "8-bit bus and control signals connecting all the modules."
+summary = "8-bit bus and control signals connecting all the modules"
 tags = ["kicad", "ben-eater-cpu", "pcb-design"]
 # previewImage = "/img/8-bit-cpu/bus.jpg"
 weight=9

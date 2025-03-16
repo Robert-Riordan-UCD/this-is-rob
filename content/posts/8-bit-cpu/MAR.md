@@ -1,7 +1,7 @@
 +++
 date = '2025-01-04T21:24:01+11:00'
 title = 'Memory Address Register'
-summary = "4-bit register, controlling access to RAM."
+summary = "4-bit register, controlling access to RAM"
 tags = ["kicad", "ben-eater-cpu", "pcb-design"]
 previewImage = "/img/8-bit-cpu/MAR.jpg"
 weight=3

@@ -3,7 +3,7 @@ date = '2025-02-12T17:18:51+11:00'
 draft = false
 title = 'Godot Screenshot Addon'
 
-summary = "A Godot addon to take screenshots during development."
+summary = "A Godot addon to take screenshots during development"
 tags = ["game-dev", "godot", "addons"]
 frontpage = false
 status = "Done"

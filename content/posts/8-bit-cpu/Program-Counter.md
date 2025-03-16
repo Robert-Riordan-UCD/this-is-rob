@@ -1,7 +1,7 @@
 +++
 date = '2024-12-17T11:24:17+11:00'
 title = 'Program Counter'
-summary = "4-bit program counter with set, reset, output, and count control signals."
+summary = "4-bit program counter with set, reset, output, and count control signals"
 previewImage = "/img/8-bit-cpu/PC.jpg"
 tags = ["kicad", "ben-eater-cpu", "pcb-design"]
 weight=2

@@ -1,7 +1,7 @@
 +++
 date = '2025-01-04T21:24:01+11:00'
 title = 'Random Access Memory'
-summary = "16 8-bit memory locations to read and write data to."
+summary = "16 8-bit memory locations to read and write data to"
 tags = ["kicad", "ben-eater-cpu", "pcb-design", "atmega-328"]
 previewImage = "/img/8-bit-cpu/RAM.jpg"
 weight=5

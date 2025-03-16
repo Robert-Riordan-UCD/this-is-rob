@@ -1,7 +1,7 @@
 +++
 date = '2025-01-04T21:24:01+11:00'
 title = 'Output'
-summary = "A 7-segment display."
+summary = "A 7-segment display"
 tags = ["kicad", "ben-eater-cpu", "pcb-design"]
 previewImage = "/img/8-bit-cpu/output.jpg"
 weight=8

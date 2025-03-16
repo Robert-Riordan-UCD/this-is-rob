@@ -2,7 +2,7 @@
 date = '2025-01-01T15:22:54+11:00'
 title = 'Layout Prototypes'
 tags = ["Keyboard-Layout-Editor", "prototype", "laser-cut"]
-summary = "Laser cut prototypes of the physical layout to test the ergonomics."
+summary = "Laser cut prototypes of the physical layout to test the ergonomics"
 previewImage = "/img/Keyboard/KeyboardPrototypeV2.jpg"
 +++
 

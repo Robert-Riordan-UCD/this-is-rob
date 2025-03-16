@@ -2,7 +2,7 @@
 date = '2025-02-03T14:51:56+11:00'
 title = 'Salt of Epsom'
 
-summary = "Cozy crafting game made for the Global Game Jam 2025."
+summary = "Cozy crafting game made for the Global Game Jam 2025"
 tags = ["game-dev", "godot", "game-jam"]
 previewImage = "/img/salt-of-epsom/salt_of_epsom_Logo.png"
 frontpage = true

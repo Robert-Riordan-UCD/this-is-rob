@@ -1,7 +1,7 @@
 +++
 date = '2025-01-04T21:24:01+11:00'
 title = 'Control'
-summary = "The decision center of the CPU."
+summary = "The decision center of the CPU"
 tags = ["kicad", "ben-eater-cpu", "pcb-design"]
 previewImage = "/img/8-bit-cpu/control.jpg"
 weight=7

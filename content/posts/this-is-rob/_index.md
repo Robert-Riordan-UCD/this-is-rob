@@ -2,7 +2,7 @@
 date = '2025-01-01T16:48:35+11:00'
 title = 'This Is Rob'
 frontpage = true
-summary = "How I made this website."
+summary = "How I made this website"
 weight = 4
 tags = ["web-dev", "hugo", "github-pages"]
 previewImage = "/img/this-is-rob/this-is-rob.png"
