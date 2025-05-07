@@ -7,3 +7,5 @@ canonifyURLs = true
 [params]
     accentColor = "rgb(5, 109, 5)"
     secondaryAccentColor = "rgb(0, 172, 0)"
+    github = "https://github.com/Robert-Riordan-UCD"
+    linkedin = "https://www.linkedin.com/in/robert-riordan-b60768205/"
