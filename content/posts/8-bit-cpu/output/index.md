@@ -7,7 +7,7 @@ previewImage = "/img/8-bit-cpu/output.jpg"
 weight=8
 +++
 
-TODO: Add GIF
+{{<video src="output" loop="true" autoplay="true" muted="true">}}
 
 The output is an 8-bit register, linked to a 7-segment display. An EEPROM converts the binary number in the register to the 7-segment signals. There is a counter used to rapidly select between each of the 4 digits to, displaying them 1 at a time faster than a human can see. A 2's complement input can be set to display negative numbers, although there are not enough control signals to use it currently.
 
