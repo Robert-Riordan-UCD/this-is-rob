@@ -8,9 +8,9 @@ weight=2
 frontpage = false
 +++
 
-TODO: Add GIF
+{{<video src="program-counter" loop="true" autoplay="true" muted="true">}}
 
-The program counter is a 4-bit register used to save to position of the current instruction in RAM while the CPU is performing it. Using the count enable signal increments the position by one, so the next instruction can be preformed. The jump signal can be used to load a value from the bus into the program counter, allowing the CPU to move to a different position in RAM.
+The program counter is a 4-bit register used to save to position of the current instruction in RAM while the CPU is performing it. Using the count enable signal increments the position by one, so the next instruction can be preformed. The jump signal can be used to load a value from the bus into the program counter, allowing the CPU to move to a different position in RAM. In the video above the program counter counts t0 4 and then jumps back to 1.
 
 ### The errors I made and how I fixed them
 
