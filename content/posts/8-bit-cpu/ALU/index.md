@@ -7,7 +7,7 @@ previewImage = "/img/8-bit-cpu/ALU.jpg"
 weight=6
 +++
 
-TODO: Add GIF
+{{<video src="alu" loop="true" autoplay="true" muted="true">}}
 
 The Arithmetic Logic Unit (ALU) either adds the contents of the A and B registers together or subtracts B from A, based on a control signal. When the result is output to the bus, it also checks if the results is zero or an overflow occurred and saves this in 2 1-bit registers. These are used by the control module to perform conditional logic.
 
