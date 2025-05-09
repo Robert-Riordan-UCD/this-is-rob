@@ -7,9 +7,11 @@ previewImage = "/img/8-bit-cpu/MAR.jpg"
 weight=3
 +++
 
-TODO: Add GIF
+{{<video src="mar" loop="true" autoplay="true" muted="true">}}
 
 The Memory Address Register (MAR) is a 4-bit register, which is used to select a location in RAM when accessing data or storing. The MAR can run in regular or programming mode. In regular mode, the register is updated from the bus if an enable signal is asserted when the clock signal goes high. Switching to programming mode allows the user to manually set the address so RAM can be programmed by hand.
+
+In the video above, the MAR is repeatedly accessing the addresses 1, 14, 2, and 3, respectively. This is because the program is looping through instructions 1 to 3 and instruction 1 loads a value from address 14.
 
 ### The errors I made and how I fixed them
 
