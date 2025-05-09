@@ -7,7 +7,7 @@ previewImage = "/img/8-bit-cpu/RAM.jpg"
 weight=5
 +++
 
-TODO: Add GIF
+{{<video src="ram" loop="true" autoplay="true" muted="true">}}
 
 The Random Access Memory (RAM) has 16 bytes of memory. The data can be write or read from the bus, and is selected using the [MAR](../mar). If the MAR is in programming mode the RAM can be written to manually using the 8 switches set the data and the push button to write.
 
