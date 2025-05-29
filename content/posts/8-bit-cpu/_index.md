@@ -16,4 +16,6 @@ This is a PCB version of [Ben Eater's 8-bit breadboard computer](https://eater.n
 
 The computer is made up of 10 modules and an 8-bit bus.
 
+In the video, the CPU is running a program which increments a counter by 3 and displays it on the output.
+
 I sourced all of the components using Ben Eaters BOM. Not all components were still in stock or even in production anymore, but I match each component as closely as possible. In some cases, I modified the design slightly to accommodate a different component, but each module functions in the same way as Ben Eater computer.
