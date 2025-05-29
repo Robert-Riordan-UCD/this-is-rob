@@ -10,7 +10,7 @@ weight = 1
 status = "Work in progress"
 +++
 
-![GIF of 8-Bit CPU running](/gif/8-bit-cpu/add-3.gif)
+{{<video src="cpu_running" loop="true" autoplay="true" muted="true">}}
 
 This is a PCB version of [Ben Eater's 8-bit breadboard computer](https://eater.net/8bit). It's based on the 'Simple As Possible' architecture, with modifications made to make the computer turing complete. My main goal building this was to learn the in's and out's of PCB design, but I also learned a whole lot about computer architecture in the process.
 
