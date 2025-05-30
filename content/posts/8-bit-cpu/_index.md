@@ -7,7 +7,7 @@ tags = ["kicad", "ben-eater-cpu", "pcb-design"]
 previewImage = "/img/8-bit-cpu/8-bit-cpu.jpg"
 frontpage = true
 weight = 1
-status = "Work in progress"
+status = "Done"
 +++
 
 {{<video src="cpu_running" loop="true" autoplay="true" muted="true">}}
