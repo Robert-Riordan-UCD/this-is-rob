@@ -25,7 +25,7 @@ These are the broad strokes of the changes I made to the theme.
 
 2. Only certain posts show up on the home page, instead of all posts.
 
-3. Added backward navigation to the nave bar to return to parent posts.
+3. Added backward navigation to the nav bar to return to parent posts.
 
 4. General modification of the style of the post preview cards.
 
