@@ -9,7 +9,7 @@ weight=5
 
 {{<video src="ram" loop="true" autoplay="true" muted="true">}}
 
-The Random Access Memory (RAM) has 16 bytes of memory. The data can be write or read from the bus, and is selected using the [MAR](../mar). If the MAR is in programming mode the RAM can be written to manually using the 8 switches set the data and the push button to write.
+The Random Access Memory (RAM) has 16 bytes of memory. The data can write to or read from the bus, and is selected using the [MAR](../mar). If the MAR is in programming mode the RAM can be written to manually using the 8 switches set the data and the push button to write.
 
 The RAM doesn't actually have a RAM chip on it. Instead it has an Atmega328U, which emulates the RAM chip that I should have used. This allowed me to preload the RAM with a program when booting, so I don't have to manually program it each time.
 
