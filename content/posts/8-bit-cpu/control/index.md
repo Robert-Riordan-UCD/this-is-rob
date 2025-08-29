@@ -28,7 +28,7 @@ In the video, the control module is executing a program to repeatedly add 3 and 
         Fetch
         INS out, MAR in
         RAM out, A in
-    Instaruction 1: Add 14
+    Instruction 1: Add 14
         Fetch
         INS out, MAR in
         RAM out, B in 

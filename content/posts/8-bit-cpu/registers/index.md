@@ -12,7 +12,7 @@ weight=4
 
 There are 3 8-bit registers in the CPU; A, B, and instruction. The A and instruction registers can read and write data to the bus. The B register can only read from the bus. The data in the A and B registers are read by the ALU and used to perform calculations. The data in the instruction register is used by the control module.
 
-In the video above the A register is being loaded with the output of the ALU, which is adding 3 to it's value. It's then outputing the value to the to the bus to display.
+In the video above the A register is being loaded with the output of the ALU, which is adding 3 to it's value. It then outputs the value to the to the bus to display.
 
 {{<video src="instruction_register" loop="true" autoplay="true" muted="true">}}
 
