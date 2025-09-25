@@ -8,6 +8,9 @@ atmega
 autoload
 bino
 bitstream
+bootload
+bootloader
+bootloading
 bom
 bouldering
 breadboard
@@ -42,6 +45,7 @@ lv
 macropad
 makefile
 makerspace
+micro
 msbs
 nano
 nav
@@ -81,6 +85,7 @@ tangnano
 thu
 todo
 totypes
+tri
 tue
 ui
 unicycling

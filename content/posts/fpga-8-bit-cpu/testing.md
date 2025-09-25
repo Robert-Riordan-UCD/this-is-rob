@@ -4,12 +4,13 @@ draft = false
 title = 'Verification with PyUVM'
 
 summary = "System verification using PyUVM"
-tags = ["FPGA", "UVM", "PyUVM"]
+tags = ["fpga", "uvm", "pyuvm"]
 frontpage = false
 status = "Done"
+previewImage = "/img/8-bit-fpga/waves.png"
 +++
 
-I verified each of the modules using [pyuvm](https://github.com/pyuvm/pyuvm). This was my first time getting a complete picture of how UVM works, so I'm going to create this post of how I set everything up and then my understanding of UVM now.
+I verified each of the modules using [PyUVM](https://github.com/pyuvm/pyuvm). This was my first time getting a complete picture of how UVM works, so I'm going to create this post of how I set everything up and then a quick summary of my understanding of UVM now.
 
 # Verification
 
@@ -42,13 +43,13 @@ To  see the waveforms, run ```make waves```.
 UVM is a standard method for RTL verification. It uses a number of reusable modules make verification faster, easier, and maintainable. These are the main modules.
 
 ## Sequence items
-Contain a set of inputs for the DUT.
+Contain a set of inputs for the Design Under Test (DUT).
 
 ## Sequencer
 Schedules the sequence items.
 
 ## Driver
-Drives the inputs of the DUT, based on sequence items received from the sequencer.
+Drives the inputs to the DUT, based on sequence items received from the sequencer.
 
 ## Monitor
 Monitors the DUTs inputs and outputs, and passes them to the scoreboard and coverage.
@@ -57,7 +58,7 @@ Monitors the DUTs inputs and outputs, and passes them to the scoreboard and cove
 Verifies the current outputs collected by the monitor are correct.
 
 ## Coverage
-Collects the output from the monitor and makes sure certain conditions are met by the end of testing.
+Collects the output from the monitor and makes sure certain conditions are covered by the end of testing, such as making sure all possible inputs are tested.
 
 ## Environment
 Links each of the components together.
