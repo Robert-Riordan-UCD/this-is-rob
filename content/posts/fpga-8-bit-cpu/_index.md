@@ -19,7 +19,7 @@ All of the code is available on [GitHub](https://github.com/Robert-Riordan-UCD/8
 
 # Major Design Changes
 
-I made the following 2 major changes the design of the 8-bit CPU.
+I made the following 2 major changes to the design of the 8-bit CPU.
 
 ### Bus Module
 
