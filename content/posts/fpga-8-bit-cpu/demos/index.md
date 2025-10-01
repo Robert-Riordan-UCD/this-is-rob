@@ -3,7 +3,7 @@ date = '2025-09-24T14:45:14+01:00'
 draft = false
 title = 'Demos'
 
-summary = "Example and explinations of 3 programs running"
+summary = "Example and explanation's of 3 programs running"
 tags = ["fpga"]
 frontpage = false
 status = "Done"
