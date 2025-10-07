@@ -10,4 +10,4 @@ frontpage = true
 weight = 1000
 +++
 
-This is (will be) a collection of short side quests that aren't full length projects, but I still think are worth documenting for one reason or another.
+This is a collection of short side quests that aren't full length projects, but I still think are worth documenting for one reason or another.
