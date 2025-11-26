@@ -7,7 +7,7 @@ summary = "Simple strategy game made for Godot Wild Jam 85"
 tags = ["game-dev", "godot", "game-jam"]
 previewImage = "/img/knots/banner.png"
 frontpage = true
-status = "Work in progress"
+status = "Done"
 weight = 3
 +++
 
@@ -47,19 +47,23 @@ Over the next 2 days, I tried to implement a scoring system which would traverse
 
 The beautiful background art was made by Emma, and I added some background music and sound effects  I found online.
 
+# Post Jam updates
+
+I made a few updates after the jam ended, including animating the movement of the tiles, changing the music, adding a tutorial, and general bug fixes. But the biggest and hardest update was adding the scoring system. This would have been made a lot easier if the information about the tile connections was stored in a convenient manner, but instead I was trying to decode tile rotations and identify connected edges from the tile map. I knew when I started this was going to be an issue and I should have used something like the Model View Controller pattern to separate the information from the implementation. I decided not to because it was a game jam and it came back to bite me. 
+
 # Game Demo
 
 ### Competitive
 
 In competitive mode, up to 4 players or CPUs battle for control of the board. Tiles must be places in a way that link to one of your own tiles and does not create any invalid links.
 
-{{<video src="1-player-3-cpus" loop="true" autoplay="true" muted="true" width="80%">}}
-
-*1 player battling with 3 CPUs*
-
 {{<video src="4-cpus" loop="true" autoplay="true" muted="true" width="80%">}}
 
-*4 CPUs battling*
+### Scoring
+
+At the end of the game, each rope gets scored. Each player gets 1 point for each segment they placed in the rope. If one player has more segments than all other players, they also get points for the other players segments. And if a rope forms a closed loop all players get double points for that rope.
+
+{{<video src="score" loop="true" autoplay="true" muted="true" width="80%">}}
 
 ### Creative
 
