@@ -26,6 +26,7 @@ duts
 eeprom
 eeproms
 en
+endpoints
 env
 favour
 fpga
@@ -50,7 +51,9 @@ lv
 macropad
 makefile
 makerspace
+matplotlib
 micro
+microcontroller
 mrelipteach
 msbs
 nano
@@ -63,6 +66,7 @@ nrf
 numpad
 openfpgaloader
 ototypes
+perf
 pico
 platformer
 pnr
@@ -87,6 +91,7 @@ speedrunning
 spel
 spellchecke
 ssh
+stls
 sudo
 sv
 svgs
@@ -110,6 +115,7 @@ velco
 venv
 verif
 verilog
+vocab
 vscodium
 waveforms
 woops
