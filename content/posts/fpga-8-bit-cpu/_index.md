@@ -19,7 +19,7 @@ All of the code is available on [GitHub](https://github.com/Robert-Riordan-UCD/8
 
 # Major Design Changes
 
-I made the following 2 major changes to the design of the 8-bit CPU.
+I made the following 3 major changes to the design of the 8-bit CPU.
 
 ### Bus Module
 
@@ -32,3 +32,9 @@ This was a struggle to solve, as the tri-state logic worked in simulation and di
 My biggest issue with the 8-bit CPU was the tedious process of programming it every time it's powered on or I want to change the program, so I created a bootloader for this project. It stores a number of programs, which can be selected by the user using a set of switches. When booting or resetting, if the bootloader is enabled, it takes control of the bus and control logic and writes the selected program to RAM.
 
 Initially, I thought there might be an issue with the micro-instruction counter not being at 0 at the end of the bootload process. However, the bootloader will require 32 clock cycles to complete (16 address writes, 16 RAM writes), the instruction register will have been reset to NO-OP on reset, and the next micro-instruction will be step 3 (5 micro-instructions per instruction). This means the control logic should always be after the fetch cycle in a NO-OP, so nothing should happen.
+
+### Double Dabble Display
+
+I knew it was unlikely to work, but my first approach to display decimal numbers was to divide by 10 and modulo 10 to get each of the digits. It needed more logic cells that the FPGA had so it didn't work. I implemented decimal conversion using the double dabble algorithm. I based the design on [this](https://www.youtube.com/watch?v=eXIfZ1yKFlA) Compueterphile video.
+
+It takes 10 cycles to convert the 8 bits to 3 digits. However it runs on the FPGA clk rather than the slowed CPU clock from the clock module which runs 300,000 times slower. This makes it effectively instantaneous from the CPUs perspective and far too fast for the human eye to catch.

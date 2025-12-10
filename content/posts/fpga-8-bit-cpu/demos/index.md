@@ -80,6 +80,6 @@ This video shows the CPU being manually programmed. It is initially running the 
 
 ### Bootloading
 
-In this video the CPU is initially running the increment program. After resetting it has switched to the Fibonacci counting program.
+In this video the CPU is initially running the increment program. After resetting it has switched to the multiply program.
 
 {{<video src="boot" loop="true" autoplay="true" muted="true">}}
