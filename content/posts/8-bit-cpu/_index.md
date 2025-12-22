@@ -2,7 +2,7 @@
 date = '2024-12-17T13:08:31+11:00'
 title = '8-Bit CPU'
 summary = "An 8-bit CPU based on the SAP-1 architecture and Ben Eater's breadboard computer"
-categories = ["Electronics", "PCB"]
+categories = ["Electronics"]
 tags = ["kicad", "ben-eater-cpu", "pcb-design"]
 previewImage = "/img/8-bit-cpu/8-bit-cpu.jpg"
 frontpage = true

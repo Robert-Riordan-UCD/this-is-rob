@@ -5,6 +5,7 @@ title = 'Knots'
 
 summary = "Simple strategy game made for Godot Wild Jam 85"
 tags = ["game-dev", "godot", "game-jam"]
+categories = ["Game-Development"]
 previewImage = "/img/knots/banner.png"
 frontpage = true
 status = "Done"

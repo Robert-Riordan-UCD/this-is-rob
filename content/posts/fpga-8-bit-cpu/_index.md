@@ -6,6 +6,7 @@ title = 'FPGA based 8-Bit CPU'
 summary = "An 8-bit CPU on a Tang Nano 9k FPGA"
 previewImage = "/img/8-bit-fpga/8-bit-fpga.jpg"
 tags = ["fpga", "system-verilog", "pyuvm"]
+categories = ["Electronics"]
 frontpage = true
 status = "Done"
 weight = 2

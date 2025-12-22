@@ -5,6 +5,7 @@ title = 'Dutch Vocab Screen'
 
 summary = "A desk display to help me learn dutch"
 tags = ["microcontroller", "raspberry-pi", "wifi", "cad"]
+categories = ["Electronics"]
 previewImage = "/img/vocab-screen/both.jpg"
 frontpage = true
 status = "Done"

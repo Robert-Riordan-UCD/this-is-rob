@@ -4,6 +4,7 @@ title = 'Salt of Epsom'
 
 summary = "Cozy crafting game made for the Global Game Jam 2025"
 tags = ["game-dev", "godot", "game-jam"]
+categories = ["Game-Development"]
 previewImage = "/img/salt-of-epsom/salt_of_epsom_Logo.png"
 frontpage = true
 status = "Done"

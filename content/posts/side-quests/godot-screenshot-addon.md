@@ -5,6 +5,7 @@ title = 'Godot Screenshot Addon'
 
 summary = "A Godot addon to take screenshots during development"
 tags = ["game-dev", "godot", "addons"]
+categories = ["Game-Development"]
 frontpage = false
 status = "Done"
 +++
