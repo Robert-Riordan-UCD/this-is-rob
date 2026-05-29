@@ -8,6 +8,7 @@ previewImage = "/img/8-bit-cpu/8-bit-cpu.jpg"
 frontpage = true
 weight = 1
 status = "Done"
+rss = true
 +++
 
 {{<video src="cpu_running" loop="true" autoplay="true" muted="true">}}

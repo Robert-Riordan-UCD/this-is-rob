@@ -10,6 +10,7 @@ previewImage = "/img/vocab-screen/both.jpg"
 frontpage = true
 status = "Done"
 weight = 3
+rss = true
 +++
 
 I wanted a small display to constantly test my vocab as I'm learning dutch. I also figured it would be a good way to learn the basics of how to setup a server. The source code is available [here](https://github.com/Robert-Riordan-UCD/vocab_screen).

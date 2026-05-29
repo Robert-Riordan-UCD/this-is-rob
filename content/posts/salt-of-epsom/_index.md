@@ -9,6 +9,7 @@ previewImage = "/img/salt-of-epsom/salt_of_epsom_Logo.png"
 frontpage = true
 status = "Done"
 weight = 10
+rss = true
 +++
 
 ![Salt of Epsom Logo](/img/salt-of-epsom/salt_of_epsom_Logo.png)

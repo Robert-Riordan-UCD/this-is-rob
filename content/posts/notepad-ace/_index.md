@@ -8,6 +8,7 @@ categories = ["Game-Development"]
 previewImage = "/img/notepad-ace/notepad-ace.png"
 weight = 3
 status = "Done"
+rss = true
 +++
 
 ![Notepad Ace GIF](/gif/notepad-ace.gif)

@@ -10,6 +10,7 @@ previewImage = "/img/knots/banner.png"
 frontpage = true
 status = "Done"
 weight = 3
+rss = true
 +++
 
 ![Knots logo](/img/knots/large_banner.png)

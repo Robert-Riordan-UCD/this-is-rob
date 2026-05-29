@@ -7,6 +7,7 @@ weight = 4
 tags = ["web-dev", "hugo", "github-pages"]
 previewImage = "/img/this-is-rob/this-is-rob.png"
 status = "Done"
+rss = true
 +++
 
 ## Getting started

@@ -8,4 +8,5 @@ tags = ["TODO: Add tags"]
 previewImage = "/img/example.jpg"
 frontpage = false
 status = "Work in progress"
+rss = false
 +++

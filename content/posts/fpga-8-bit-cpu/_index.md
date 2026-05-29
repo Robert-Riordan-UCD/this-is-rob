@@ -10,6 +10,7 @@ categories = ["Electronics"]
 frontpage = true
 status = "Done"
 weight = 2
+rss = true
 +++
 
 {{<video src="inc" loop="true" autoplay="true" muted="true">}}
