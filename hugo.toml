@@ -1,5 +1,5 @@
 baseURL = 'https://robert-riordan-ucd.github.io/this-is-rob/'
-languageCode = 'en-us'
+languageCode = 'en-ie'
 title = 'Robert Riordan'
 theme = ["hugo-video", "lightbi-hugo"]
 enableRobotsTXT = true
